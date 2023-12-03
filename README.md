@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-<a href="https://nextjs-dashboard-psi-vert-11.vercel.app" target="_blank">Live Demo Link</a>
+<a href="https://nextjs-dashboard-psi-vert-11.vercel.app" target="_blank">Live Demo Link</a> username: user@nextmail.com password:123456
 
 ---
 
