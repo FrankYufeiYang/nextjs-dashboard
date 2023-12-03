@@ -15,7 +15,9 @@
 
 ## Live Demo
 
-<a href="https://nextjs-dashboard-psi-vert-11.vercel.app" target="_blank">Live Demo Link</a> username: user@nextmail.com password:123456
+<a href="https://nextjs-dashboard-psi-vert-11.vercel.app" target="_blank">Live Demo Link</a>
+username: user@nextmail.com
+password: 123456
 
 ---
 
@@ -24,6 +26,6 @@
 ![main-image](./readme/main.png)
 ![feature-image](./readme/invoices.png)
 
-### Using URL as search parameters for Search and Pagination 
-![search-image](./readme/search.png)
----
+### Using URL as search parameters for Search and Pagination
+
+## ![search-image](./readme/search.png)
