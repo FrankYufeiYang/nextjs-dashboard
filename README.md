@@ -26,5 +26,4 @@
 
 ### Using URL as search parameters for Search and Pagination 
 ![search-image](./readme/search.png)
-
 ---
