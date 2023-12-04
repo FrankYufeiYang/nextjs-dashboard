@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-<a href="nextjs-dashboard-franks-projects-fa7aa0cb.vercel.app" target="_blank">Live Demo Link</a>
+<a href="nextjs-dashboard-psi-vert-11.vercel.app" target="_blank">Live Demo Link</a>
 <br>
 username: user@nextmail.com
 <br>
